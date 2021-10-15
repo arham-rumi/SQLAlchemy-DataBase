@@ -8,4 +8,5 @@ File Structure of this complete Learning session is categorized as:
 
 ## Data-Base
 In this session, we are using MySQL WorkBench for Data-Base Management
+
 Queries are not provided here
