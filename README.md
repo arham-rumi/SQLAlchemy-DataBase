@@ -1,2 +1,2 @@
-# SQLAlchemy-DataBase
-This Repo contains all the tasks regarding DataBases using SQLAlchemy
+# SQL-Alchemy DataBase
+Learning DataBase Management using **SQL-Alchemy**
